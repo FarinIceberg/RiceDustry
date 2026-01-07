@@ -1,0 +1,10 @@
+name: Nori
+description: "Dried Kelp. Can be used to wrap cooked rice."
+explosiveness: 0
+flammability: 0.8
+radioactivity: 0
+charge: 0
+hardness: 0
+cost: 0.5
+alwaysUnlocked: true
+research: core-shard

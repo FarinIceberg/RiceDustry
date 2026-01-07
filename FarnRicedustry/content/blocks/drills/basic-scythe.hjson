@@ -1,0 +1,27 @@
+type: Drill
+name: Basic Scythe
+description: "Place above paddy. Capable to harvest paddy products"
+category: production
+alwaysUnlocked: true
+health: 160
+size: 2
+drillTime: 600
+tier: 3
+itemCapacity: 10
+liquidCapacity: 30
+teamPassable: true
+requirements: [
+]
+consumes: {
+liquid: {
+liquid: water
+amount: 0.05
+optional: true
+booster: true
+}
+}
+research: {
+parent: core-shard
+requirements: [
+]
+}

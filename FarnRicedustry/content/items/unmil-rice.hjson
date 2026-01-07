@@ -1,0 +1,10 @@
+name: Unmil Rice
+description: "Raw rice. Needs to be processed first to make it possible to cook."
+explosiveness: 0
+flammability: 0.7
+radioactivity: 0
+charge: 0
+hardness: 0
+cost: 0.5
+alwaysUnlocked: true
+research: core-shard

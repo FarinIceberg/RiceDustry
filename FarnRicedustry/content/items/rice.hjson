@@ -1,0 +1,10 @@
+name: Rice
+description: "Made from unmil rice. Staple food for most asians."
+explosiveness: 0
+flammability: 0.4
+radioactivity: 0
+charge: 0
+hardness: 0
+cost: 0.5
+alwaysUnlocked: true
+research: core-shard

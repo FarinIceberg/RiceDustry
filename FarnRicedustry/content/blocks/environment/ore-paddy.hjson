@@ -1,0 +1,4 @@
+type: OreBlock
+name: Paddy
+description: "Contains Unmil Rice that can be harvested."
+itemDrop: paddy
